@@ -1,0 +1,5 @@
+a = input('masukan nama anda	:')
+b = int(input('berapa umur anda	:'))
+c = input('apa hobi anda	:')
+
+print(f'halo {a} , kamu berumur {b}tahun dan hobi mu {c}.')
